@@ -13,7 +13,6 @@ This repository provides a test Telegram Node.js API that allows you to authoriz
    -  [Repository Cloning](#repository-cloning)
 -  [Configuration](#configuration)
 -  [Usage](#usage)
--  [API Documentation](#api-documentation)
 
 ## Requirements
 
