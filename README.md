@@ -1,6 +1,6 @@
 # Telegram test backend API
 
-English | [Русский](https://github.com/volveezz/telegram-test-app/blob/master/README_ru.md)
+English | [Русский](https://github.com/volveezz/telegram-test-app/blob/main/README_ru.md)
 
 ## Overview
 
